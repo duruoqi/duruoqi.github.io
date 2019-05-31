@@ -1,7 +1,6 @@
 ---
 layout: default
-title: tags
-description: "A personal website."
+title: 首页
 ---
 
 # 一级标题
