@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: fly西域春秋
+description: 学无先后，达者为尊……
+
+show_downloads: true
+google_analytics:
