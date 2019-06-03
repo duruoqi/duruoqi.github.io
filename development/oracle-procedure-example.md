@@ -1,6 +1,6 @@
 ## Oracle存储过程示例
 
-> [返回首页](/index.html)
+> [首页](/index.html) / [数据库相关技术](/development/database.html)
 
 ```sql
 -- 注意：
