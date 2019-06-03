@@ -6,6 +6,6 @@
 - 集合框架
 - 泛型
 - GUI
-- 输入输出
+- [输入输出](/development/java-io-stream.html)
 - 多线程
 - 反射
