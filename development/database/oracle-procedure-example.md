@@ -1,3 +1,8 @@
+---
+layout: default
+title: 数据库相关技术
+---
+
 > [首页](/index.html) / [数据库相关技术](/development/database-index.html)
 
 ## Oracle存储过程示例

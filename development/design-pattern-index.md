@@ -1,3 +1,8 @@
+---
+layout: default
+title: 设计模式
+---
+
 > [首页](/index.html)
 
 ## 设计模式

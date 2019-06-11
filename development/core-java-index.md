@@ -1,3 +1,8 @@
+---
+layout: default
+title: JAVA核心技术
+---
+
 > [首页](/index.html)
 
 ## JAVA核心技术
@@ -6,6 +11,6 @@
 - 集合框架
 - 泛型
 - GUI
-- [输入输出](/development/java-io-stream.html)
+- [输入输出](/development/core-java/java-io-stream.html)
 - 多线程
 - 反射
