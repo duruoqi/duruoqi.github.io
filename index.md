@@ -26,3 +26,7 @@ title: 首页
 - 微信小程序
 - 手机APP
 - 企业级应用系统
+
+## 运动&健身
+
+- [健身](/sports-and-fitness/fitness-index.html)
