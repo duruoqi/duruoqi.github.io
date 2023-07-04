@@ -31,3 +31,8 @@ title: 首页
 ## 运动&健身
 
 - [健身](/sports-and-fitness/fitness-index.html)
+
+## 其他
+
+- [工具](/fast-github.md)
+
