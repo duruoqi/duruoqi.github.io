@@ -9,6 +9,8 @@ title: 工具
 
 ### 第1步，打开 *https://www.ipaddress.com/* 查询出域名当前对应的最有IP
 
+> 或者打开网站 *http://tool.chinaz.com/dns/* 在A类型中填写 github.com 进行监测
+
 分别查询出下面3个网址对应的IP地址：
 
 > github.com  
