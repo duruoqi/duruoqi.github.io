@@ -1,0 +1,23 @@
+@startuml
+
+footer Page %page% of %lastpage%
+
+
+group 修改费率
+autonumber 1.1
+
+App客户端 -> McsAgent: 修改费率
+    McsAgent-> StarSer: 预校验
+    McsAgent<-- StarSer: success
+    McsAgent -> MCSS: update()
+        MCSS -> 斗拱: update()
+        MCSS <-- 斗拱: success
+        MCSS -> StarSer: update()
+        MCSS <-- StarSer: success
+        MCSS -> MCSS: 保存数据
+    McsAgent <-- MCSS: success
+App客户端 <-- McsAgent: success
+
+end
+
+@enduml

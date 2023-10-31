@@ -1,0 +1,56 @@
+@startmindmap
+'https://mall-test.cloudpnr.com/console/store/overview/index
+
+header
+终端商城需求分析
+endheader
+
+title 终端商城需求分析
+
+caption figure 1
+
+* 终端商城
+** 商品管理
+    *** 商品列表
+        **** 上架下架（可批量操作）
+        **** 编辑
+        **** 预览（展示微信小程序码）
+        **** 修改售价和库存
+    *** 新建商品
+        **** 选择商品分类
+        **** 编辑基本信息
+        **** 商品属性（选填）
+        **** 规格售价与库存
+        **** 设置销售时段（选填）
+        **** 限购/起售设置
+        **** 商品详情（视频、图片、文字描述）
+    *** 商品分类
+    *** 商品属性
+    *** 商品品牌
+    *** 商品排序
+    *** <&flag> 缺少
+        **** 已购数量
+        **** 销量排名
+
+** 会员管理
+    *** 会员查询
+    *** 会员权益
+        **** 积分规则
+    *** <&flag> 缺少
+        **** 账户余额
+** 订单管理
+    *** <&flag> 缺少
+        **** 多次发货（同一笔订单需要拆分）
+        **** 多次收货
+
+
+
+
+center footer My super footer
+
+legend right
+    Short
+legend
+endlegend
+
+@endmindmap
