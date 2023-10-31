@@ -35,4 +35,5 @@ title: 首页
 ## 其他
 
 - [工具](/quick-access-github.md)
+- [洗车](/car-wash.md)
 
