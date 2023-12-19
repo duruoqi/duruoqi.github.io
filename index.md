@@ -23,6 +23,7 @@ title: 首页
 ## 初创篇
 
 - [企业门户](/corporation/portal.html)
+  
 - 微信公众号
 - 微信小程序
 - 手机APP
@@ -31,6 +32,11 @@ title: 首页
 ## 运动&健身
 
 - [健身](/sports-and-fitness/fitness-index.html)
+
+
+## 投资理财
+
+- [复盘笔记-V20231211](/investment/replay-v20231211.html)
 
 ## 其他
 
