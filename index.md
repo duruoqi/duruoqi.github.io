@@ -36,8 +36,7 @@ title: 首页
 
 ## 投资理财
 
-- [复盘笔记-V20231211](/investment/replay-v20231211.html)
-- [复盘笔记-V20231219](/investment/replay-v20231219.html)
+- [复盘笔记](/investment/investment-index.html)
 
 ## 其他
 
