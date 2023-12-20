@@ -3,7 +3,7 @@ layout: default
 title: 首页
 ---
 
-## 研发篇
+### 研发篇
 
 - [JAVA核心技术](/development/core-java-index.md)
 - [数据库相关技术](/development/database-index.md)
@@ -15,30 +15,29 @@ title: 首页
 - [消息中间件](/development/mq-middleware-index.md)
 - [Hadoop生态圈](/development/hadoop-ecosystem-index.md)
 
-## 旅游篇
+### 旅游篇
 
 - [旅游出行必备-v201906](/tour/travel-list.md)
 
 
-## 初创篇
+### 初创篇
 
 - [企业门户](/corporation/portal.md)
-  
 - 微信公众号
 - 微信小程序
 - 手机APP
 - 企业级应用系统
 
-## 运动&健身
+### 运动&健身
 
 - [健身](/sports-and-fitness/fitness-index.md)
 
 
-## 投资理财
+### 投资理财
 
 - [复盘笔记](/investment/replay-index.md)
 
-## 其他
+### 其他
 
 - [工具](/other/quick-access-github.md)
 - [达克效应 - 一种认知偏差现象](/other/dunning-kruger-effect.md)
