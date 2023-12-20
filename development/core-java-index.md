@@ -3,7 +3,7 @@ layout: default
 title: JAVA核心技术
 ---
 
-> [首页](/index.md)
+> [首页](/index.html)
 
 ## JAVA核心技术
 
@@ -21,7 +21,7 @@ title: JAVA核心技术
 
 ### 高级
 
-- [输入输出](/development/core-java/java-io-stream.md)
+- [输入输出](/development/core-java/java-io-stream.html)
 - GUI
 - 多线程
 - 反射

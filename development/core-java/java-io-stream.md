@@ -3,7 +3,7 @@ layout: default
 title: JAVA核心技术
 ---
 
-> [首页](/index.md) / [JAVA核心技术](/development/core-java-index.md)
+> [首页](/index.html) / [JAVA核心技术](/development/core-java-index.html)
 
 ## 输入输出流
 

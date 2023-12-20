@@ -3,7 +3,7 @@ layout: default
 title: 工具
 ---
 
-> [首页](/index.md)
+> [首页](/index.html)
 
 ## 准备
 
