@@ -3,7 +3,7 @@ layout: default
 title: 投资理财
 ---
 
-> [首页](/index.md)
+> [首页](/index.html)
 
 ## 复盘笔记
 
