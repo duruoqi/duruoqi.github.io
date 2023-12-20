@@ -3,7 +3,7 @@ layout: default
 title: 生产运行与维护
 ---
 
-> [首页](/index.html)
+> [首页](/index.md)
 
 ## 生产运行与维护
 
@@ -15,5 +15,5 @@ title: 生产运行与维护
 ### WEB容器
 
 - Jetty
-- [Apache Tomcat](/development/prod-operation/apache-tomcat.html)
+- [Apache Tomcat](/development/prod-operation/apache-tomcat.md)
 - JBoss

@@ -3,7 +3,7 @@ layout: default
 title: 健身
 ---
 
-> [首页](/index.html)
+> [首页](/index.md)
 
 ## 健身
 

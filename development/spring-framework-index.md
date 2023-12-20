@@ -3,7 +3,7 @@ layout: default
 title: Spring框架
 ---
 
-> [首页](/index.html)
+> [首页](/index.md)
 
 ## Spring
 
