@@ -13,3 +13,4 @@ title: 投资理财
 - [复盘笔记-v20231219](/investment/replay/replay-v20231219.html)
 - [复盘笔记-v20231220](/investment/replay/replay-v20231220.html)
 - [复盘笔记-v20231221](/investment/replay/replay-v20231221.html)
+- [复盘笔记-v20231222](/investment/replay/replay-v20231222.html)
