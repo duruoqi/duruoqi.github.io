@@ -35,6 +35,7 @@ title: 首页
 
 ### 投资理财
 
+- [炒股心得](/investment/stock-investment-notes.html)
 - [复盘笔记](/investment/replay-index.html)
 
 ### 其他

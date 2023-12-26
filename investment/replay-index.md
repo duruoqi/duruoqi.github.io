@@ -7,6 +7,7 @@ title: 投资理财
 
 ## 复盘笔记
 
+- [复盘笔记-v20231226](/investment/replay/replay-v20231226.html)
 - [复盘笔记-v20231225](/investment/replay/replay-v20231225.html)
 
 
